@@ -38,9 +38,6 @@ streamlit run translator.py
 
 Now open the localhost URL displayed in your terminal (e.g., http://localhost:8501) to use the translator.
 
-📷 Preview
-
-![Translator preview](https://raw.githubusercontent.com/Elsarose18/Translator/main/translator.png?raw=true)
 
 📚 How to Use
 	1.	Enter the text you want to translate.
