@@ -40,8 +40,7 @@ Now open the localhost URL displayed in your terminal (e.g., http://localhost:85
 
 📷 Preview
 
-![Translator preview](https://raw.githubusercontent.com/Elsarose18/Translator/main/translator.png)
-
+https://github.com/Elsarose18/Translator/blob/main/translator.png?raw=true
 
 📚 How to Use
 	1.	Enter the text you want to translate.
