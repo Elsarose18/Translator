@@ -40,6 +40,7 @@ Now open the localhost URL displayed in your terminal (e.g., http://localhost:85
 
 📷 Preview
 
+![Translator preview](https://raw.githubusercontent.com/Elsarose18/Translator/main/translator.png)
 
 
 📚 How to Use
