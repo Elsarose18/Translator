@@ -53,6 +53,5 @@ Now open the localhost URL displayed in your terminal (e.g., http://localhost:85
 👨‍💻 Author
 
 Ela Rose
-📌 GitHub: Your GitHub Profile
-📌 LinkedIn: Your LinkedIn Profile
+
 
